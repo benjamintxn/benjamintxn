@@ -6,6 +6,7 @@ I am a current 2nd year undergraduate student studying BEng Electronics and Comp
 - C
 - Java
 - JavaScript
+- Python (learning)
 ## 💡 What I Am Working On
 - Given a full CAD model of the 2021 University of Nottingham Formula Student car. It is incredibly detailed - over 3,700 individual components, and some of the bearings are modelled down to each individual ball bearing.
 - The ultimate aim is to create software that allows interactive simulation of this model - allows the user to change the colour of parts, apply special effects, pull parts off in VR, etc. This is broken down into two main project phases that will be attempted as a group:
