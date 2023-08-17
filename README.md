@@ -8,6 +8,8 @@ I am a current 3rd year undergraduate student studying BEng Electronics and Comp
 - JavaScript
 - Python (learning)
 ## 💡 What I Am Working On
+- Currently building a UCI chess game in C++ using SFML 
+## 💡 What I Have Worked On
 - Given a full CAD model of the 2021 University of Nottingham Formula Student car. It is incredibly detailed - over 3,700 individual components, and some of the bearings are modelled down to each individual ball bearing.
 - The ultimate aim is to create software that allows interactive simulation of this model - allows the user to change the colour of parts, apply special effects, pull parts off in VR, etc. This is broken down into two main project phases that will be attempted as a group:
   -  Phase 1: Develop a PC based Graphical User Interface application that can load the CAD model and allow the user to made modifications such as changing part colour, adding/removing parts, applying special effects to part. The model will be viewed using a standard 3D view in the GUI application.
