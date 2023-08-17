@@ -1,6 +1,6 @@
 # Hello, I am Ben! :wave:
 ## 👨‍🎓 About Me
-I am a current 2nd year undergraduate student studying BEng Electronics and Computer Engineering with Honours at the University of Nottingham, with interests in IT Infrastructure, Cyber Security, AI, and IOT.
+I am a current 3rd year undergraduate student studying BEng Electronics and Computer Engineering with Honours at the University of Nottingham, with interests in IT Infrastructure, Cyber Security, AI, and IOT.
 ## 🖥️ Skills
 - C++
 - C
