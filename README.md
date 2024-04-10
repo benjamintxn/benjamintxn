@@ -22,5 +22,3 @@ I am a current 3rd year undergraduate student studying BEng Electronics and Comp
 - [LinkedIn](https://www.linkedin.com/in/benjamin-tan-2003/) 
 - [Email](mailto:benetc2003@gmail.com) 
 - [Instagram](https://www.instagram.com/benjamintxn/?hl=en-gb) 
-## GitHub Stats
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamintxn)](https://github.com/benjamintxn/github-readme-stats)
