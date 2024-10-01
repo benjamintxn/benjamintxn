@@ -1,6 +1,6 @@
 # Hello, I am Ben! :wave:
 ## 👨‍🎓 About Me
-I am an incoming postgraduate at King’s College London pursuing an MSc in Artificial Intelligence. I graduated with a First Class Honours in BEng Electronics and Computer Engineering at the University of Nottingham, where I developed skills in software development, software testing, and programming. With my keen interest in Cybersecurity, AI, and IOT, I aspire to apply my knowledge and passion when creating innovative and impactful solutions for real-world problems.
+I am a postgraduate at King’s College London pursuing an MSc in Artificial Intelligence. I graduated with a First Class Honours in BEng Electronics and Computer Engineering at the University of Nottingham, where I developed skills in software development, software testing, and programming. With my keen interest in Cybersecurity, AI, and IOT, I aspire to apply my knowledge and passion when creating innovative and impactful solutions for real-world problems.
 ## 🖥️ Skills
 - C++
 - C
