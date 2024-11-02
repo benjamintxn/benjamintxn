@@ -4,10 +4,13 @@ I am a postgraduate at King’s College London pursuing an MSc in Artificial Int
 ## 🖥️ Skills
 - C++
 - C
-- Java
-- JavaScript
 - Python
+- Java
 ## 💡 What I Am Working On
+- RailRepay: A command-line tool that calculates train delay compensation eligibility and refund amounts for UK rail passengers based on actual train performance data.
+  - It works by interacting with the National Rail Darwin Data Feeds Historical Service Performance APIs to retrieve scheduled and actual arrival times, then applies the refund policies of various Train Operating Companies to calculate the refund amount.
+  - Future plans include supporting multi-leg journeys to calculate total delays, expanding compatibility with more train operators, automating the compensation claim submission process, and enhancing the user interface for improved usability.
+
 ## 💡 What I Have Worked On
 - Participated in ESA's ‘Orbit Your Thesis’ programme, contributing to the development of an experiment cube for the ISS, focusing on interface setup between the cube and the ICE Cubes Facility (ICF).
   - Designed and implemented communication and data transfer strategies, including telecommand functions using Raspberry Pi, for a ground-to-ISS link via a control centre in Belgium.
